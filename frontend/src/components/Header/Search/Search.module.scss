@@ -1,0 +1,21 @@
+.Search {
+    outline: none;
+    position: relative;
+}
+
+.Search_list {
+    max-width: 400px;
+    width: 100%;
+    border-radius: 15px;
+    position: absolute;
+    background-color: rgba(9, 86, 138, 0.336);
+    z-index: 999;
+}
+
+.Search_list li {
+    padding: 15px;
+}
+
+.Search_list li a {
+    min-width: 100px;
+}
